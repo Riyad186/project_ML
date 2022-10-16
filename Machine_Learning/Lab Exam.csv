@@ -1,0 +1,167 @@
+ID,Start time,Completion time,Email,Name,Total points,Quiz feedback,What is the last index of an array consists of 10 elements?,Points - What is the last index of an array consists of 10 elements?,Feedback - What is the last index of an array consists of 10 elements?,"Which one is illegal for the following pointer?
+
+int var = 10, num = 20;
+int * p = &var;","Points - Which one is illegal for the following pointer?
+
+int var = 10, num = 20;
+int * p = &var;","Feedback - Which one is illegal for the following pointer?
+
+int var = 10, num = 20;
+int * p = &var;","Which one is correct for the following statement?
+
+const int *p;","Points - Which one is correct for the following statement?
+
+const int *p;","Feedback - Which one is correct for the following statement?
+
+const int *p;",What is the scope of the variable declared in the user-defined function?,Points - What is the scope of the variable declared in the user-defined function?,Feedback - What is the scope of the variable declared in the user-defined function?,How many ways we can pass a parameter to the function?,Points - How many ways we can pass a parameter to the function?,Feedback - How many ways we can pass a parameter to the function?,"What will be returned by the following function?
+
+void addition(float x, float y){
+    int total =  x + y;
+    cout << total;
+}","Points - What will be returned by the following function?
+
+void addition(float x, float y){
+    int total =  x + y;
+    cout << total;
+}","Feedback - What will be returned by the following function?
+
+void addition(float x, float y){
+    int total =  x + y;
+    cout << total;
+}","What is the output of the following code snippet?
+
+    int a=100;
+    if(a>10)
+         printf(""Sakib"");
+    else if(a>20)
+         printf(""Tamim"");
+    else if(a>30)
+           printf(""Taskin"");","Points - What is the output of the following code snippet?
+
+    int a=100;
+    if(a>10)
+         printf(""Sakib"");
+    else if(a>20)
+         printf(""Tamim"");
+    else if(a>30)
+           printf(""Taskin"");","Feedback - What is the output of the following code snippet?
+
+    int a=100;
+    if(a>10)
+         printf(""Sakib"");
+    else if(a>20)
+         printf(""Tamim"");
+    else if(a>30)
+           printf(""Taskin"");","what is the output of the following code snippet?
+
+    int arr[] = {1,2,3,4,5,6,7,8};
+    int *p = arr;
+    int i=1;
+    while(i<8){
+        cout << *p + i;
+        I = i+2;
+    }","Points - what is the output of the following code snippet?
+
+    int arr[] = {1,2,3,4,5,6,7,8};
+    int *p = arr;
+    int i=1;
+    while(i<8){
+        cout << *p + i;
+        I = i+2;
+    }","Feedback - what is the output of the following code snippet?
+
+    int arr[] = {1,2,3,4,5,6,7,8};
+    int *p = arr;
+    int i=1;
+    while(i<8){
+        cout << *p + i;
+        I = i+2;
+    }","What will be the output for the following code snippet?
+
+void my_func(int a[], int arr_size){
+    int sum = 0;
+    float avg;
+    for(int i = 0; i < arr_size; i++){
+        a[i] = a[i] * 10;
+    }...","Points - What will be the output for the following code snippet?
+
+void my_func(int a[], int arr_size){
+    int sum = 0;
+    float avg;
+    for(int i = 0; i < arr_size; i++){
+        a[i] = a[i] * 10;
+    }...","Feedback - What will be the output for the following code snippet?
+
+void my_func(int a[], int arr_size){
+    int sum = 0;
+    float avg;
+    for(int i = 0; i < arr_size; i++){
+        a[i] = a[i] * 10;
+    }...","How many syntax errors the following code contains?
+
+#include<iostream>
+using namespace std;
+
+int main(){
+    int arr[][] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+    for(i = 0; i < 3; i++){
+        for(j =...","Points - How many syntax errors the following code contains?
+
+#include<iostream>
+using namespace std;
+
+int main(){
+    int arr[][] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+    for(i = 0; i < 3; i++){
+        for(j =...","Feedback - How many syntax errors the following code contains?
+
+#include<iostream>
+using namespace std;
+
+int main(){
+    int arr[][] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
+    for(i = 0; i < 3; i++){
+        for(j =..."
+1,6-27-21 8:15:13,6-27-21 8:29:12,19-40836-2@student.aiub.edu,19-40836-2@student.aiub.edu,24,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,only inside the user-defined function,3,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+2,6-27-21 8:15:10,6-27-21 8:29:16,19-41516-3@student.aiub.edu,19-41516-3@student.aiub.edu,24,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,only inside the user-defined function,3,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+3,6-27-21 8:15:09,6-27-21 8:29:30,17-35677-3@student.aiub.edu,17-35677-3@student.aiub.edu,24,,9,2,,None of the mentioned,0,,Integer value can be changed but pointer cannot be changed,0,,only inside the user-defined function,3,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+4,6-27-21 8:15:03,6-27-21 8:29:30,19-41258-3@student.aiub.edu,19-41258-3@student.aiub.edu,24,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,only inside the user-defined function,3,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+5,6-27-21 8:15:08,6-27-21 8:29:38,19-39674-1@student.aiub.edu,19-39674-1@student.aiub.edu,15,,9,2,,None of the mentioned,0,,Integer value can be changed and also pointer can be changed,0,,inside the whole program,0,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+6,6-27-21 8:15:27,6-27-21 8:29:48,19-40223-1@student.aiub.edu,19-40223-1@student.aiub.edu,10,,10,0,,*p = 20;,0,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the main function,0,,all of the mentioned,3,,nothing will be returned,3,,Tamim,0,,246,0,,10 20 30 40 50,4,,5,0,
+7,6-27-21 8:15:06,6-27-21 8:29:49,19-40194-1@student.aiub.edu,19-40194-1@student.aiub.edu,18,,9,2,,*p = 20;,0,,Integer value can be changed and also pointer can be changed,0,,inside the whole program,0,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+8,6-27-21 8:15:24,6-27-21 8:29:51,19-39573-1@student.aiub.edu,19-39573-1@student.aiub.edu,18,,9,2,,p = &num;,0,,Integer value can be changed and also pointer can be changed,0,,only inside the main function,0,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+9,6-27-21 8:16:43,6-27-21 8:29:52,19-39434-1@student.aiub.edu,19-39434-1@student.aiub.edu,21,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,only inside the main function,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,1357,0,,10 20 30 40 50,4,,3,3,
+10,6-27-21 8:15:28,6-27-21 8:29:56,18-38923-3@student.aiub.edu,18-38923-3@student.aiub.edu,15,,9,2,,None of the mentioned,0,,Integer value can be changed but pointer cannot be changed,0,,inside the both user-defined and main functions,0,,all of the mentioned,3,,nothing will be returned,3,,Taskin,0,,246,0,,10 20 30 40 50,4,,3,3,
+11,6-27-21 8:15:23,6-27-21 8:29:56,19-40296-1@student.aiub.edu,19-40296-1@student.aiub.edu,15,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,inside the whole program,0,,all of the mentioned,3,,float type value,0,,Sakib,3,,246,0,,10 20 30 40 50,4,,4,0,
+12,6-27-21 8:15:14,6-27-21 8:29:57,19-41059-2@student.aiub.edu,19-41059-2@student.aiub.edu,20,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,only inside the user-defined function,3,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,1 2 3 4 5,0,,3,3,
+13,6-27-21 8:15:07,6-27-21 8:29:58,19-40877-2@student.aiub.edu,19-40877-2@student.aiub.edu,18,,9,2,,p = &num;,0,,Integer value can be changed and also pointer can be changed,0,,only inside the main function,0,,pass-by pointer,0,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+14,6-27-21 8:15:13,6-27-21 8:29:59,18-39243-3@student.aiub.edu,18-39243-3@student.aiub.edu,18,,9,2,,*p = 20;,0,,Integer value cannot be changed but pointer can be changed,3,,inside the whole program,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,12345678,0,,10 20 30 40 50,4,,5,0,
+15,6-27-21 8:15:10,6-27-21 8:30:23,19-40751-1@student.aiub.edu,19-40751-1@student.aiub.edu,21,,9,2,,*p = 20;,0,,Integer value can be changed and also pointer can be changed,0,,inside the whole program,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+16,6-27-21 8:15:26,6-27-21 8:30:24,18-37912-2@student.aiub.edu,18-37912-2@student.aiub.edu,21,,9,2,,,0,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the main function,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+17,6-27-21 8:15:06,6-27-21 8:30:26,17-34409-1@student.aiub.edu,17-34409-1@student.aiub.edu,18,,9,2,,*p = 20;,0,,Integer value can be changed but pointer cannot be changed,0,,inside the both user-defined and main functions,0,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+18,6-27-21 8:15:06,6-27-21 8:30:26,19-40677-1@student.aiub.edu,19-40677-1@student.aiub.edu,21,,9,2,,*p = 20;,0,,Integer value cannot be changed and also pointer cannot be changed,0,,inside the whole program,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+19,6-27-21 8:15:13,6-27-21 8:30:27,19-40804-2@student.aiub.edu,19-40804-2@student.aiub.edu,24,,9,2,,p = 20;,3,,Integer value cannot be changed but pointer can be changed,3,,only inside the user-defined function,3,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+20,6-27-21 8:15:28,6-27-21 8:30:30,18-37144-1@student.aiub.edu,18-37144-1@student.aiub.edu,24,,9,2,,p = 20;,3,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the user-defined function,3,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+21,6-27-21 8:15:04,6-27-21 8:30:30,17-35536-3@student.aiub.edu,17-35536-3@student.aiub.edu,18,,9,2,,None of the mentioned,0,,Integer value can be changed but pointer cannot be changed,0,,inside the both user-defined and main functions,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+22,6-27-21 8:15:29,6-27-21 8:30:30,19-40948-2@student.aiub.edu,19-40948-2@student.aiub.edu,17,,9,2,,p = &num;,0,,Integer value can be changed and also pointer can be changed,0,,only inside the user-defined function,3,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,1 2 3 4 5,0,,3,3,
+23,6-27-21 8:15:35,6-27-21 8:30:30,19-41275-3@student.aiub.edu,19-41275-3@student.aiub.edu,21,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,only inside the user-defined function,3,,all of the mentioned,3,,,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+24,6-27-21 8:15:13,6-27-21 8:30:31,18-37027-1@student.aiub.edu,18-37027-1@student.aiub.edu,21,,9,2,,None of the mentioned,0,,Integer value can be changed and also pointer can be changed,0,,only inside the user-defined function,3,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+25,6-27-21 8:15:00,6-27-21 8:30:31,19-40055-1@student.aiub.edu,19-40055-1@student.aiub.edu,15,,9,2,,None of the mentioned,0,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the main function,0,,pass-by reference,0,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+26,6-27-21 8:18:00,6-27-21 8:30:31,18-37827-2@student.aiub.edu,18-37827-2@student.aiub.edu,9,,Last index defined by the programmer,0,,None of the mentioned,0,,Integer value cannot be changed and also pointer cannot be changed,0,,inside the whole program,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,1357,0,,2 4 6,0,,4,0,
+27,6-27-21 8:15:04,6-27-21 8:30:32,19-41450-3@student.aiub.edu,19-41450-3@student.aiub.edu,15,,9,2,,None of the mentioned,0,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the main function,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,12345678,0,,10 20 30 40 50,4,,2,0,
+28,6-27-21 8:16:16,6-27-21 8:30:33,19-40683-1@student.aiub.edu,19-40683-1@student.aiub.edu,21,,9,2,,*p = 20;,0,,Integer value can be changed but pointer cannot be changed,0,,inside the both user-defined and main functions,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+29,6-27-21 8:15:01,6-27-21 8:30:33,19-39458-1@student.aiub.edu,19-39458-1@student.aiub.edu,10,,Last index defined by the programmer,0,,None of the mentioned,0,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the main function,0,,all of the mentioned,3,,nothing will be returned,3,,Compile time error,0,,1357,0,,10 20 30 40 50,4,,5,0,
+30,6-27-21 8:16:00,6-27-21 8:30:35,17-34746-2@student.aiub.edu,17-34746-2@student.aiub.edu,21,,9,2,,*p = 20;,0,,Integer value can be changed and also pointer can be changed,0,,only inside the user-defined function,3,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+31,6-27-21 8:15:29,6-27-21 8:30:36,18-37051-1@student.aiub.edu,18-37051-1@student.aiub.edu,15,,9,2,,None of the mentioned,0,,Integer value can be changed and also pointer can be changed,0,,inside the whole program,0,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,5,0,
+32,6-27-21 8:15:13,6-27-21 8:30:37,19-40544-1@student.aiub.edu,19-40544-1@student.aiub.edu,18,,9,2,,*p = 20;,0,,Integer value cannot be changed and also pointer cannot be changed,0,,inside the both user-defined and main functions,0,,all of the mentioned,3,,nothing will be returned,3,,Compile time error,0,,2468,3,,10 20 30 40 50,4,,3,3,
+33,6-27-21 8:15:34,6-27-21 8:30:38,19-40186-1@student.aiub.edu,19-40186-1@student.aiub.edu,21,,9,2,,None of the mentioned,0,,Integer value can be changed and also pointer can be changed,0,,inside the whole program,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+34,6-27-21 8:15:57,6-27-21 8:30:39,19-39342-1@student.aiub.edu,19-39342-1@student.aiub.edu,15,,9,2,,p = 20;,3,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the main function,0,,all of the mentioned,3,,nothing will be returned,3,,Compile time error,0,,246,0,,10 20 30 40 50,4,,4,0,
+35,6-27-21 8:15:11,6-27-21 8:30:39,19-41479-3@student.aiub.edu,19-41479-3@student.aiub.edu,21,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,only inside the user-defined function,3,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+36,6-27-21 8:15:20,6-27-21 8:30:44,19-40359-1@student.aiub.edu,19-40359-1@student.aiub.edu,12,,9,2,,*p = 20;,0,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the main function,0,,all of the mentioned,3,,nothing will be returned,3,,Compile time error,0,,246,0,,10 20 30 40 50,4,,4,0,
+37,6-27-21 8:15:10,6-27-21 8:30:52,19-40255-1@student.aiub.edu,19-40255-1@student.aiub.edu,15,,9,2,,None of the mentioned,0,,Integer value can be changed but pointer cannot be changed,0,,only inside the main function,0,,all of the mentioned,3,,nothing will be returned,3,,Compile time error,0,,246,0,,10 20 30 40 50,4,,3,3,
+38,6-27-21 8:15:12,6-27-21 8:30:54,19-41348-3@student.aiub.edu,19-41348-3@student.aiub.edu,18,,9,2,,None of the mentioned,0,,Integer value cannot be changed and also pointer cannot be changed,0,,only inside the user-defined function,3,,all of the mentioned,3,,a pointer,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,4,0,
+39,6-27-21 8:15:10,6-27-21 8:30:56,19-41284-3@student.aiub.edu,19-41284-3@student.aiub.edu,24,,9,2,,p = 20;,3,,Integer value cannot be changed but pointer can be changed,3,,only inside the main function,0,,all of the mentioned,3,,float type value,0,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+40,6-27-21 8:15:11,6-27-21 8:31:24,17-35672-3@student.aiub.edu,17-35672-3@student.aiub.edu,21,,9,2,,None of the mentioned,0,,Integer value cannot be changed but pointer can be changed,3,,inside the whole program,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,5,0,
+41,6-27-21 8:15:31,6-27-21 8:31:25,19-40703-1@student.aiub.edu,19-40703-1@student.aiub.edu,21,,9,2,,None of the mentioned,0,,Integer value can be changed but pointer cannot be changed,0,,inside the whole program,0,,all of the mentioned,3,,nothing will be returned,3,,Sakib,3,,2468,3,,10 20 30 40 50,4,,3,3,
+42,6-27-21 8:15:30,6-27-21 8:31:30,19-41341-3@student.aiub.edu,19-41341-3@student.aiub.edu,12,,9,2,,p = &num;,0,,Integer value cannot be changed and also pointer cannot be changed,0,,inside the whole program,0,,all of the mentioned,3,,float type value,0,,Compile time error,0,,2468,3,,10 20 30 40 50,4,,5,0,
+43,6-27-21 8:15:28,6-27-21 8:31:35,18-39130-3@student.aiub.edu,18-39130-3@student.aiub.edu,15,,9,2,,*p = 20;,0,,Integer value cannot be changed and also pointer cannot be changed,0,,inside the whole program,0,,all of the mentioned,3,,nothing will be returned,3,,Compile time error,0,,2468,3,,10 20 30 40 50,4,,5,0,

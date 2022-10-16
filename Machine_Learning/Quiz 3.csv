@@ -1,0 +1,82 @@
+ID,Start time,Completion time,Email,Name,Total points,Quiz feedback,An array only can contain the same type of elements.,Points - An array only can contain the same type of elements.,Feedback - An array only can contain the same type of elements.,"Which of the following option accesses the fifth element stored in the following array?
+
+int arr[11] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}","Points - Which of the following option accesses the fifth element stored in the following array?
+
+int arr[11] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}","Feedback - Which of the following option accesses the fifth element stored in the following array?
+
+int arr[11] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}",Which operator is used for dereferencing in pointer?,Points - Which operator is used for dereferencing in pointer?,Feedback - Which operator is used for dereferencing in pointer?,Select the valid statement.,Points - Select the valid statement.,Feedback - Select the valid statement.,Select the correct statement.,Points - Select the correct statement.,Feedback - Select the correct statement.,"Select the right output for the following code snippet.
+
+    int arr[] = {11, 22, 33, 44, 55};
+    int *p1 = arr;
+    p1++;
+    int *p2 = arr + 2;
+
+    cout<< *p1 << "" ""<< *p2;","Points - Select the right output for the following code snippet.
+
+    int arr[] = {11, 22, 33, 44, 55};
+    int *p1 = arr;
+    p1++;
+    int *p2 = arr + 2;
+
+    cout<< *p1 << "" ""<< *p2;","Feedback - Select the right output for the following code snippet.
+
+    int arr[] = {11, 22, 33, 44, 55};
+    int *p1 = arr;
+    p1++;
+    int *p2 = arr + 2;
+
+    cout<< *p1 << "" ""<< *p2;","What will happen after executing the following code?
+
+     int x = 111, y = 222;
+     int *p = &x, *q = &y;
+     p = q;","Points - What will happen after executing the following code?
+
+     int x = 111, y = 222;
+     int *p = &x, *q = &y;
+     p = q;","Feedback - What will happen after executing the following code?
+
+     int x = 111, y = 222;
+     int *p = &x, *q = &y;
+     p = q;",A string can be defined by the which option?,Points - A string can be defined by the which option?,Feedback - A string can be defined by the which option?
+1,6/29/21 10:10:04,6/29/21 10:18:14,19-40186-1@student.aiub.edu,19-40186-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+2,6/29/21 10:12:16,6/29/21 10:18:20,19-40223-1@student.aiub.edu,19-40223-1@student.aiub.edu,17,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,a one dimensional array of characters terminated by “\0”,0,
+3,6/29/21 10:10:25,6/29/21 10:18:48,19-39458-1@student.aiub.edu,19-39458-1@student.aiub.edu,14,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points can be changed but the location to which a pointer points cannot be changed,0,,22 33,3,,p now points to y,3,,a one dimensional array of characters terminated by “\0”,0,
+4,6/29/21 10:14:44,6/29/21 10:18:48,19-40359-1@student.aiub.edu,19-40359-1@student.aiub.edu,17,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,a one dimensional array of characters terminated by “\0”,0,
+5,6/29/21 10:10:18,6/29/21 10:18:52,19-40255-1@student.aiub.edu,19-40255-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,a one dimensional array of characters terminated by “\0”,0,
+6,6/29/21 10:10:10,6/29/21 10:20:09,19-39342-1@student.aiub.edu,19-39342-1@student.aiub.edu,20,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+7,6/29/21 10:10:16,6/29/21 10:20:11,19-40055-1@student.aiub.edu,19-40055-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+8,6/29/21 10:10:13,6/29/21 10:20:52,19-40703-1@student.aiub.edu,19-40703-1@student.aiub.edu,18,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+9,6/29/21 10:10:18,6/29/21 10:21:01,19-40194-1@student.aiub.edu,19-40194-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+10,6/29/21 10:10:01,6/29/21 10:21:02,19-39674-1@student.aiub.edu,19-39674-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+11,6/29/21 10:10:04,6/29/21 10:21:09,19-41479-3@student.aiub.edu,19-41479-3@student.aiub.edu,20,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+12,6/29/21 10:10:53,6/29/21 10:21:10,18-37827-2@student.aiub.edu,18-37827-2@student.aiub.edu,11,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points can be changed but the location to which a pointer points cannot be changed,0,,22 33,3,,p now points to x,0,,a one dimensional array of characters terminated by “\0”,0,
+13,6/29/21 10:10:22,6/29/21 10:21:13,19-39573-1@student.aiub.edu,19-39573-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+14,6/29/21 10:10:06,6/29/21 10:21:14,18-37144-1@student.aiub.edu,18-37144-1@student.aiub.edu,13,,True,2,,arr[5],0,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+15,6/29/21 10:10:11,6/29/21 10:21:15,19-40751-1@student.aiub.edu,19-40751-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed and also the location to which a pointer points cannot be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+16,6/29/21 10:11:34,6/29/21 10:21:19,19-41284-3@student.aiub.edu,19-41284-3@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed and also the location to which a pointer points cannot be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+17,6/29/21 10:11:23,6/29/21 10:21:21,19-40683-1@student.aiub.edu,19-40683-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+18,6/29/21 10:10:12,6/29/21 10:21:23,19-40296-1@student.aiub.edu,19-40296-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+19,6/29/21 10:10:14,6/29/21 10:21:23,18-37027-1@student.aiub.edu,18-37027-1@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+20,6/29/21 10:12:33,6/29/21 10:21:27,18-37912-2@student.aiub.edu,18-37912-2@student.aiub.edu,9,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points can be changed but the location to which a pointer points cannot be changed,0,,22 33,3,,p now points to x,0,,a one dimensional array of characters terminated by “\0”,0,
+21,6/29/21 10:10:12,6/29/21 10:21:32,19-40836-2@student.aiub.edu,19-40836-2@student.aiub.edu,20,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+22,6/29/21 10:10:03,6/29/21 10:21:32,17-35536-3@student.aiub.edu,17-35536-3@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+23,6/29/21 10:10:28,6/29/21 10:21:33,18-37051-1@student.aiub.edu,18-37051-1@student.aiub.edu,12,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+24,6/29/21 10:10:02,6/29/21 10:21:34,19-40877-2@student.aiub.edu,19-40877-2@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+25,6/29/21 10:10:17,6/29/21 10:21:39,19-41516-3@student.aiub.edu,19-41516-3@student.aiub.edu,20,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+26,6/29/21 10:10:02,6/29/21 10:21:40,19-41258-3@student.aiub.edu,19-41258-3@student.aiub.edu,20,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+27,6/29/21 10:10:05,6/29/21 10:21:43,17-34409-1@student.aiub.edu,17-34409-1@student.aiub.edu,17,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed and also the location to which a pointer points cannot be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+28,6/29/21 10:10:01,6/29/21 10:21:48,19-41059-2@student.aiub.edu,19-41059-2@student.aiub.edu,14,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+29,6/29/21 10:10:02,6/29/21 10:21:49,19-40948-2@student.aiub.edu,19-40948-2@student.aiub.edu,11,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 44,0,,p now points to x,0,,All of the mentioned,3,
+30,6/29/21 10:10:12,6/29/21 10:21:59,19-40677-1@student.aiub.edu,19-40677-1@student.aiub.edu,18,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+31,6/29/21 10:10:05,6/29/21 10:21:59,19-41450-3@student.aiub.edu,19-41450-3@student.aiub.edu,8,,False,0,,None of the above,0,,*,2,,int * const p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,11 33,0,,p now points to x,0,,All of the mentioned,3,
+32,6/29/21 10:10:10,6/29/21 10:22:00,17-35677-3@student.aiub.edu,17-35677-3@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+33,6/29/21 10:21:28,6/29/21 10:22:00,17-34746-2@student.aiub.edu,17-34746-2@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+34,6/29/21 10:10:44,6/29/21 10:22:12,19-41275-3@student.aiub.edu,19-41275-3@student.aiub.edu,17,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to y,3,,a character array ends with a null character,0,
+35,6/29/21 10:10:05,6/29/21 10:22:13,19-40804-2@student.aiub.edu,19-40804-2@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+36,6/29/21 10:17:03,6/29/21 10:22:19,18-39130-3@student.aiub.edu,18-39130-3@student.aiub.edu,14,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed and also the location to which a pointer points cannot be changed,0,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+37,6/29/21 10:10:00,6/29/21 10:22:21,19-41348-3@student.aiub.edu,19-41348-3@student.aiub.edu,17,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to y,3,,All of the mentioned,3,
+38,6/29/21 10:13:41,6/29/21 10:22:23,19-40544-1@student.aiub.edu,19-40544-1@student.aiub.edu,12,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points can be changed and also the location to which a pointer points can be changed,0,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+39,6/29/21 10:10:04,6/29/21 10:22:28,18-39243-3@student.aiub.edu,18-39243-3@student.aiub.edu,17,,True,2,,arr[4],2,,*,2,,All of the mentioned,2,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+40,6/29/21 10:10:25,6/29/21 10:22:29,18-38923-3@student.aiub.edu,18-38923-3@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+41,6/29/21 10:10:04,6/29/21 10:22:32,17-35672-3@student.aiub.edu,17-35672-3@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
+42,6/29/21 10:10:09,6/29/21 10:25:20,19-41341-3@student.aiub.edu,19-41341-3@student.aiub.edu,15,,True,2,,arr[4],2,,*,2,,const int *p;,0,,The location to which a reference points cannot be changed but the location to which a pointer points can be changed,3,,22 33,3,,p now points to x,0,,All of the mentioned,3,
